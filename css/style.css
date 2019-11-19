@@ -1,0 +1,94 @@
+body {
+  background: #eee;
+  background: url("../bg-bulldog-wallpaper-1600x900.jpg") no-repeat 0 0;
+  background-size: 100%;
+ }
+
+ .navbar {
+  background: #eda342!important;
+}
+
+.btn {
+  background-color:#eda342!important;
+  border-color:#eda342!important;
+}
+
+.btn:hover {
+  background-color:#e8b676!important;
+  border-color:#e8b676!important;
+}
+
+ul li a {
+  color:#fff!important;
+}
+h1,h2{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .btn {
+    margin-top: 10px;
+  }
+  
+  h1{
+    margin-top:20px;
+  }
+  
+  h2{
+    margin-top:30px;
+  }
+  
+  #randomImageContainer, #listImageContainer{
+    width:100%;
+    min-height: 300px;
+  }
+   
+  button{
+    margin-top:30px;
+    text-align:center;
+  }
+  
+  .alert{
+    display:none;
+  }
+  
+  img{
+    max-height:300px;
+  }
+  
+  #listImageContainer{
+    margin-top:30px;
+  }
+  
+  #doggoDropDown{
+    padding:2px;
+  }
+  
+  #dogInfo{
+    text-align:left;
+    margin-top:35px;
+    color: #fff;
+  }
+  
+  .form-control{
+    font-size:1.2em;
+  }
+  
+  .container-fluid{
+    background:#c46dae;
+    padding-bottom:30px;
+  }
+  
+  .container-fluid:last-of-type{
+    background:#fff;
+    padding-bottom:30px;
+  }
+  
+  .container, .card-deck{
+    margin-top:30px;
+  }
+  
+  .footer-copyright {
+    background: #ccc;
+    font-size: 11px;
+    color: #e9e9e9;
+  }
